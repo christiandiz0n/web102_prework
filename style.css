@@ -21,6 +21,12 @@ body {
 
 .stats-container {
     display: flex;
+    cursor: pointer;
+}
+
+.stats-container :hover{
+    box-shadow: 0 0 30px;
+    color: lightblue;
 }
 
 .stats-card {
@@ -72,4 +78,14 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+button:hover{
+    cursor:pointer;
+    /* I had to, the OCD was real LOL */
+}
+
+.stats-container s{
+    display: flexbox;
+    align-items: center;
 }
