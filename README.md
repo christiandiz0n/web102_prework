@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='web102 showcase.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Kapture 2025-04-03 at 23.34.27.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS 
